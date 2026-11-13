@@ -1,0 +1,20 @@
+nr;seiten;teil;form;anfang;ende
+1;451,452;anm;Volltext;[ \t]*Die im hofteiding versammelten;[\(\[][^\)\]]{0,260}?archiv[^\)\]]{0,400}[\)\]]
+2;452;anm;nur Vermerk;[ \t]*Der ständische ausschuß an Primus Truber;\(So auf demselben blatt[^\)]*\)
+3;456;anm;Regest;[ \t]*D\. Lukas Osiander an Primus Truber;[\(\[][^\)\]]{0,260}?archiv[^\)\]]{0,400}[\)\]]
+4;457,458;haupt;Regest;[ \t]*D\. Dietrich Schnepf an Primus Truber;[\(\[][^\)\]]{0,260}?archiv[^\)\]]{0,400}[\)\]]
+5;457,458,459;haupt;Regest;[ \t]*Nikolaus Kirner an Primus Truber;[\(\[][^\)\]]{0,260}?archiv[^\)\]]{0,400}[\)\]]
+6;459,460;haupt;Regest;[ \t]*Nikolaus Kirner an Primus Truber;[\(\[][^\)\]]{0,260}?archiv[^\)\]]{0,400}[\)\]]
+7;460,461;haupt;Volltext;[ \t]*D\. Wilhelm Bidenbach an Primus Truber;[\(\[][^\)\]]{0,260}?archiv[^\)\]]{0,400}[\)\]]
+8;461,462;haupt;Regest;[ \t]*Nikolaus Kirner an Primus Truber;[\(\[][^\)\]]{0,260}?archiv[^\)\]]{0,400}[\)\]]
+9;462,463;haupt;Regest;[ \t]*Nikolaus Kirner an Primus Truber;[\(\[][^\)\]]{0,260}?archiv[^\)\]]{0,400}[\)\]]
+10;463,464;haupt;Wortlaut;[ \t]*D\. Wilhelm Bidenbach an Primus Truber;[\(\[][^\)\]]{0,260}?archiv[^\)\]]{0,400}[\)\]]
+11;464,465;haupt;gemischt;[ \t]*D\. Wilhelm Bidenbach und Lorenz Schmidlin an\s+Primus Truber;[\(\[][^\)\]]{0,260}?archiv[^\)\]]{0,400}[\)\]]
+12;465,466;haupt;Wortlaut;[ \t]*D\. Lukas Osiander an Primus Truber;[\(\[][^\)\]]{0,260}?archiv[^\)\]]{0,400}[\)\]]
+13;468,469;haupt;Regest;[ \t]*Die landschaft in Krain an Primus Truber;[\(\[][^\)\]]{0,260}?archiv[^\)\]]{0,400}[\)\]]
+14;479,480,481,482;haupt;Volltext;[ \t]*Landesverweser und verordnete in Krain an\s+Pr\. Truber;[\(\[][^\)\]]{0,260}?archiv[^\)\]]{0,400}[\)\]]
+15;492,493,494;haupt;Volltext;[ \t]*Herzog Ludwigs antwort an Primus Truber;[\(\[][^\)\]]{0,260}?archiv[^\)\]]{0,400}[\)\]]
+16;494,495,496;haupt;Volltext;[ \t]*D\. Lorenz Schmidlin an Primus Truber;[\(\[][^\)\]]{0,260}?archiv[^\)\]]{0,400}[\)\]]
+17;506,507;haupt;Regest;[ \t]*Die verordneten in Krain an Primus Truber;[\(\[][^\)\]]{0,260}?archiv[^\)\]]{0,400}[\)\]]
+18;515,516;haupt;Volltext;[ \t]*Landesverweser und verordnete in Krain an\s+Primus Truber;[\(\[][^\)\]]{0,260}?archiv[^\)\]]{0,400}[\)\]]
+19;561,562;haupt;Volltext;[ \t]*14\) 1583 ?, 1 März;landleute in Crain\.

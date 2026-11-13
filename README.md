@@ -1,3 +1,25 @@
+# Reading Trubar Twice
+### A minimal-AI and an AI-intensive workflow for Primož Trubar's exile network (1565–1586)
+
+Capstone project by Nico Tschojer in the seminar *GenAI for Digital Humanities* (University of Vienna, winter term 2026/27).
+
+**Question.** How does the research experience differ between a traditional DH workflow with little AI and an AI-intensive workflow, when both reconstruct the correspondence network of the reformer Primož Trubar during his second exile in Württemberg? Which persons, ties and functions does each workflow find, miss or invent?
+
+**Material.** Trubar's letters from two editions: Vrečko and Krajnc-Vrečko 2015 (main source) and Elze 1897 (letters to Trubar). The 31 letters of the second exile, annotated by hand, form the gold standard.
+
+**Note on the corpus.** The letter texts are **not** included in this public repository, because the 2015 edition is protected by copyright (© Pedagoški inštitut). The scripts in `src/00_data_preparation/` document how the text files are produced from the two editions. Sources and rights are listed in `docs/data_sources.md`, the reasoning in `milestones/02_material_and_ethics/material_ethics.md`.
+
+| Where to look | What it contains |
+|---|---|
+| `milestones/` | pitch, material and ethics note, later milestones |
+| `docs/design_decisions.md` | key decisions with alternatives and reasons |
+| `docs/data_sources.md` | sources, editors, rights |
+| `src/00_data_preparation/` | scripts that cut the editions into one file per letter, with documentation |
+
+---
+
+*The remainder of this file is the original course template.*
+
 # Your Question, Your Archive, Your AI
 ## AI-Aided Creative Exploration in the Humanities — Capstone Template
 
